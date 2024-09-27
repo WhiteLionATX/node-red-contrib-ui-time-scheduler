@@ -3,7 +3,8 @@
   "version": "1.17.2",
   "description": "A ui time scheduler for the Node-RED Dashboard",
   "dependencies": {
-    "suncalc": "^1.9.0"
+    "suncalc": "^1.9.0",
+    "node-red-dashboard": "^3.0.0"
   },
   "main": "time-scheduler.js",
   "scripts": {
@@ -31,6 +32,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/fellinga/node-red-contrib-ui-time-scheduler.git"
+    "url": "https://github.com/WhiteLionATX/node-red-contrib-ui-time-scheduler.git"
   }
 }
